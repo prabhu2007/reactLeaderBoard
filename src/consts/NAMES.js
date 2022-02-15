@@ -1,0 +1,5 @@
+export const NAMES = {
+  STUDENT_DETAILS: 'STUDENT DETAILS',
+};
+
+export const STUDENT_DETAILS = 'STUDENT DETAILS';
